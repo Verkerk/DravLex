@@ -17,3 +17,14 @@ Vishnupriya Kolipakam1,2, Fiona Jordan3,4,2, Michael Dunn5,2, Simon J. Greenhill
 7Department of Computer Science, University of Auckland, 303/38 Princes St, Auckland, 1010, New Zealand
 
 Submitted to Royal Society Open Science
+
+These files will be published through Zenodo upon publication.
+
+During the review process, they are shared with the reviewers through Google Drive, the links to which are also found in the cover letter and are also listed here:
+
+Data, including all cognate coding & comments:
+https://drive.google.com/open?id=1yeKvtwv3F7AY7X4FBFBCHCm_nbDmCljdNAIWvtYU7m4
+
+BEAST 2 XML file to generate the tree sample that was our best-supported analysis. See Table 2 in the manuscript.
+https://drive.google.com/open?id=0B3KO4jaSUbZGcnI1VGtoUEZmTkE
+
