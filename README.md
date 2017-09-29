@@ -1,6 +1,6 @@
 # DravLex
 
-This private repository contains the datafile for the following publication:
+This private repository contains the datafiles for the following publication:
 
 A Bayesian phylogenetic study of the Dravidian language family
 
