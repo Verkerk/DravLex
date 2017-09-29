@@ -1,0 +1,2476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='BinaryCovarion' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.4">
+
+    <data
+id="drav"
+dataType="integer">
+
+                        <sequence id="seq_Malto" taxon="Malto" totalcount="2" value="010101001000100100001000001000100000000000110000000000000000011000001000111001000000000000000100000000110000000000000100000000000000000000100000000000100000001000000001????????????????????0000001000000100???????????????000010000000000001000000001000100000000000100000100000000000000010000001000000100000000000000100100000000000100000000010000001010000100000000100000010000100001000000000100010000000000010010000000000001000000100000000000010000000000010000000000000100001000000000100000000010000000001000010001000011000000001000001010000000000001000000100000000000010000010001010000000000000000010000001000000010000000000000001000100000001000010000000010000000001000000001000000001000000100000000100000010????????00000000001000001000000000000000001000001000000001000000000100000000000110000000010001100000000000000100000001000100010000000010000000001010000001000000001000000001"/>
+                        <sequence id="seq_Kurukh" taxon="Kurukh" totalcount="2" value="0101010010001001000010000010000000000000000010000000000000000001000010010000000000001000000001000010000000000000000000110000000000000000000100000000100000000000100001000100000010000011000000001000000100000001000000000000000010000000000001000010000000001000100000000001000000000000000010000010000001000000000000000100000010000000100000000100001000100001000001000001000000001000010000001000000100000000010000000001000000010000000000000000000010000000000000100000000000100010000010000000001000000000001000000100010000000000000010000000100000000000000010001000000000000100000100010000000000011000000100000010000000100000000000001000001000010000000100000000100000000001000000001000000100001000000000001000000100000000100000000000100000100000000000000000100001000000100000000000100000000010000000010000000100000000000000001100000000100010000000010000000000001000001000000001000000001"/>
+                        <sequence id="seq_Brahui" taxon="Brahui" totalcount="2" value="0101010000100101000010000000110000000000010000000000000000001000000010010000000000010000000010000010000000000000000010000000000000000000010000000000000100000001000000010000010000010010000000000001000000100000000000001000001000000000001000000100000000000100001000000000000010000000011000000010000000010000000000010000001000000000000100000000101000100001001000000101000000000010000100000010000000000001001000000000100000000000010000000000001000000000000001000000000010000010000000010000100000000000000100000100000100000000000000000100100000001000000000000000000100000001000001010000000000100000000000011000000100010000000000010000000010000001000000010000010000000100001000000000001000000000010000000100000100000010000000000100000000000001000001000000000001000000010000000000001000000001000000010000000000000010010000000000000000010000000100010000000000100000000000100000100000010"/>
+                        <sequence id="seq_Kuwi" taxon="Kuwi" totalcount="2" value="010100101000010000101??????????0000000001000000????????????????????01001000001000000000???????????????????00000000000000001110000000000010000011????????0000010000?????????????000001???????0000000010100000???????????????????????????????????0010000?????????????????0000000000010000000000001?????????????????????????????????00000000000001010000010001000010000010000000000010010000010001000000000100000000100000000000100?????????????0000000000000001????????????????????????????010000000000010000?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????0001???????????????00000010010000000010000000001000000001000100000000001000000011000000000011???????????????????????????????????????????????????00001101000001100000010100000010001100000100000000000010????????????????????0000000010010000000000000001??????????????????010"/>
+						<sequence id="seq_Koya" taxon="Koya" totalcount="2" value="0101011010001000010010100000000001100000000000000001100000000000000010010000010000000000001000000010000000000001100000000000000001100000000000000100000000010000000100000001000010000000001000100000001000000000101000000000100000000000100000000100000010000001010000000001000100000001000000000100100010000000000100000000100000000000101000001000001000100001000000100000010000001000100001000000000100100000010000000100000000100000000000010000000000000001000000000010000000000010001000000000011000000001000000001000001000000000000000100000001000000001000000010000000000010000010000010000100000000000000010000010000000100000000100000000010000011000000001000000010000001000000100000001000000000010000001000000000010010000000000100000000000000000100000100100000000100001000000000010000000000100000001100000000010000000010000000000010000000010000000100000001000000000001000000000101000010"/>
+                        <sequence id="seq_Telugu" taxon="Telugu" totalcount="2" value="0101011010001001000010100001000001101000000000000101000000000000000010010000010000000000001000000010000000001100010000000000000101000000000000000100000000110000000010000100000001000010010000100000001000000100100000000000110000001000000000001100000110000001010000001000110000000100000000000100000110000000010000000000100000010000100000001000001000100001000001000000100000001000100001100000000100000000010000110000000000100000000000001010000000000011000000000010000000000100001000000000010000000010000000000101001000000000001000000000100000001000000000010000000000100000010000010000000100000000001000000010000000100000100000000000110000010000000011000000010000011000000100000001000000100010000101100000001000010000000001100000000010110000000010010000000000100001000000000010000000001100000000100000001000000000010000000000010000000010000000100000001000000000001000000010001000010"/>
+                        <sequence id="seq_Kannada" taxon="Kannada" totalcount="2" value="0101010010001001000010010000000010000000000000001000000000000000000010010000000100000000010000000100000000010000000000000000000010000000000000000100000000100000000100000100000010000010000001000000001000000010000100000000110000011000000000001000000100100001000000000010000000001010000000000100000100000000101000000001000000100000000000001000001000100001000001000001000000001000100001100000000110000000010000100000000000001000000000010010000000000010000000000100001000001000001000000000101000000100000000010001001000000000011000000000100000010000000000010000000001000000010000010010000000000000010010000010000001000001000000000000000000010000000000000000010000100000001000000011000000100000000000100000001000010000001000000000000000001000000100000000000001000001000000000100000000001000000001001000000000000000010000000001000000000100000000010000010000000000000100000000110000010"/>
+                        <sequence id="seq_Badga" taxon="Badga" totalcount="2" value="01010100100010001000100010000000100000000000000000000100000000000000100100000001000000000100000000011000000000000010000000000000000100000000000000100000??????????0100000000100010000010000001000000001000000100000000000000100000000001000000001100000100000001000000000001000000001000000000000100000100000010000000000001000000001000000000000010001000100001000001000000001000001000100000000100000001000000010000100000000001000000000000100000000000000??????????????????????0100000100000000000100000010000000001000100000000000010000000000010000000001000000001000000000100000001000001000001000000000001000000001000000100000000001000000000010001000000001010000001000010000000100000000001000?????????0000010000001000010000000010000000000000100000000001000000000001000001000000001000000000001000000001000000010000000000000100000000000001000100000000001000010000000000????????0000010000010"/>
+                        <sequence id="seq_Kodava" taxon="Kodava" totalcount="2" value="0101010010001001000010100000000010000000000000000010000000000000000010010000001000000000010000001000000000010000000000000000001000000000000000000100000000100000000100000100000010000000100001000000001000000100010000000000100000100000000000000001000000100000001000000001000000001000000000000100000100000000001000000001000000000001000000000010001000100001000001000001000000001000100000000100000010000000010000100000000000000100000000000100000000000010000000000000010000001000001000000000100000000100000000010001000000000000100000000000100000010000000000000100000001000000010000010000000001000000000001000010000001000000010000000000100000010000000010000000010000100000001000000010000000100000000000100000001000010000001000000000000000011000000010000000000001000001000000001000000000001000000001000000000001000000010000000001000100000100000000010000100000000000000010000000010000010"/>
+                        <sequence id="seq_Yeruva" taxon="Yeruva" totalcount="2" value="010101001000100100001010000000000000010000000000001000000000000000001001000000100000000010000000100000000000000000010000000000000000100000000000010000000010000000010000010000001000000010000100000000100000000000000010000010000010000000000000000100000010000000100000010000000000100000000000010000010000000000100000000100000000000100000000100000100010000010000100000100000000100010000001000000010000000001000100000000000000010000000000010000000000000010000000000001000000100000100000000010000000010000000001000100000000000010000000000010000001000000000000001000000000100001000001000000000100000010000000001000000100001000000000000010000000100000001000000001000010000000100000001000000?????????0000100000001000010000001000000000000000001000000010000000000001000001000000001000000000001000000001000000000000100000010000000001000000000100000000010000100000000000000010000000000100010"/>
+                        <sequence id="seq_Malayalam" taxon="Malayalam" totalcount="2" value="0101011010001001000010100000000010000000000000001000001000000000000010010000001000000000100000001000000000011000000000000000001100000000000000000100000000101000000100100100000010100010000101000000001000000100000000010000110000101000000000001001000100010001000000000100010000001000000000000100000100000001000000000001010000000010000000001001001100110010000001000001000000001000100001100000000101000000010001000000000001000000000000100110000000000010000000000100100000001000001000000000100000001000000000010001000000000000100000000000000000010000000000010000000001000000010000010100000000000000100000000010000001000010000000000000100000010000000010000001001000100000001000000010000000100000000100000000001000100000000010000000000100000000000001010000000001000001000000001000000000001000000001000000000000000000000001000001000000000010000000010000100000000000000010000000110000010"/>
+                        <sequence id="seq_Tamil" taxon="Tamil" totalcount="2" value="0101011010001001000010100000000010000000000000001000000100000000000010010000010000000000100000001010000000010000000000000000001000000100000000000100000001000000000100000100000010000010000001000000001000000100000000000000100000100100000000000000000100000001000000001100000000001000000000000100000100000010000000000001000000000110000000001000000100100000000001000001000000001000100001110000000101000000010001001010000001000000000000100000000000000000000000000100000000001000000100000000100000001000100000010001000100000000100001000000100000010000000000010000000001000000010000010100000001000001000000000010000001010100000000000000000000001000000110000010010000100000001000000010000000100000000000000000001000100000000100000000000100000000000001000000000001000001000000001000000000001000000001000000011000000000011000000000100000000010100000010000100000000000000010000101000000010"/>
+                        <sequence id="seq_Tulu" taxon="Tulu" totalcount="2" value="0101001001001001000010000100000000000010000000000000000001000000000010010000000010000000010000000010000000010000000000000000000000000001000000000100000000100000000100000100000010000010000001000000001000000000000001000000010000001000000000000100000100000000001000000000001000000010000000000100000000100000000010000001000000100000000000000010001000100001000001000001000000000100100000010000000000010000010001000000000000000010000000000000100000000??????????????????????00001000001000000000010000000010000010000000100000000000000010000100000000100000000000001000001000000010000010000000001000000010000000000001001000000000000100000100000010000000010000000010000010000001000000000100000100000000000100000001000000100000000010000000000000010000000000010000001000001000000001000000000001000000001000000001000000000010000000000010000000000010000010000000100000000000010000000010000010"/>
+                        <sequence id="seq_Ollari_Gadba" taxon="Ollari_Gadba" totalcount="2"   value="01010010100010?????01??????????????????????????????????????????????01001000000000000010????????00000000001??????????????????????????????????????????????0000000001010000????????????????????0000010000001000???????????????010000??????????????0010000????????000000001????????????00001000000000000010000001?????????????0100000000000000000100100000100010000000010100000000000010100010000010000000000000001001000000000010000000000000010000000000000001000000000001000100000000001000100000000????????00010000000????0000000000010???????????????????????????????????????????????????????01??????????????00000000100???????0010???????????????000000100100000000000100001000????????0100000001000000001000000???????????010000010000?????????????00000010000000000000000001????????????????????????????????????????????????????????0100000000??????????000000010000001??????????????????????????????????"/>
+                        <sequence id="seq_Parji" taxon="Parji" totalcount="2"                 value="010100101000100100001??????????????????????????????????????????????01001000001000000000????????00010000000????????????????????????????????????????????????????????010000010000001000001000000001000000100000???????????????010000??????????????001000000100000010000000000010000000???????????????????0010000?????????????0010000??????????????010000010001000010000010000010000000010001000????????????????????0100001000000000?????????????0010000000000000???????????00010000000000100010000000000100000???????????000100100000000000000100000000100000????????????????????????????????????0100010000000000???????????01000000010000001000000000???????0010000000010000000100000010000010000000100000000100000000100000000????00010000?????????????000100000000??????????????010000010000000????????????010000000??????????????????????????????0000100000?????????001000???????????????????????????????010"/>
+                        <sequence id="seq_Kolami" taxon="Kolami" totalcount="2"               value="01010010100010?????010000001000000000000000001000000000000010000000010000001???????????00010000000100000000000000000000010000000000000000000100001000000000100000001000001000000100000100000001000000010000000000000000001001000000000000001000001000000100000?????????0000100000000000000000100010000001000000000000010000000010000000000001000100000100010000100000100000000001000100010000000000010000100000001000000000000100000000010000000000000000100000100001000001000000000000010000000010000000100000000000100010000000000100000000000100000001000000000010000000010000000001000100001000100000000000000000010001000000010???????????????0110000001000000001000000010000001000000000100001000000000001000000000010001000000001000000000000010000100000010000000000010000100000000100000000000000100100000000000001000000000001010000000000001000000010000000100000000000000100000000010000000001010"/>
+                        <sequence id="seq_Betta_Kurumba" taxon="Betta_Kurumba" totalcount="2" value="0101001010001001000010110000000000000001000000000000000000100000000010010000000000100000010000000000010000010000000000000000000010000000000000000000100000100000000100000100000010000010000001000000001000000000000000010000100000000000010000000100000100000000000110000100000000000000100000000100000100000000000001000001000000000000010000000010001000100000010001000001000000001000100000010000000000001000010000100000000000000001000000000000010000000000001000000000000100001000001000000000100000000100000000010000000010000000100000000000010000000000100000010000000001000000010000010000000001000000001010000001100001000000001000000000010000000100000100000000010000100000001000000010000000000001000000100000001000010000000010001000000000010000000100000000000000010001000000001000000000001000000001000000000000010000001000000000000010000000001000000100100000000000000001000000000010010"/>
+                        <sequence id="seq_Toda" taxon="Toda" totalcount="2"                   value="0101001010001001000010000100000000010000000000000000000010000000000001010000000001000000000100000000010000000010000000000000000000000010000000000001000001000000000100000010000010000010000001000000001000000000000010000000100000000010000000000000100100000001000000000001000000001000000000000001000100000010000000000001000000000100000000000010001000100001000000010001000000001000100000010000000001000000010001000000000000100000000000000001000000000000010000000000100000000010000000100000000100000100000000010001000000000000100000000000000100000100000000010000000001000000010000010000001010000000100000000000010000100000000001000000100000001000000010000000010000100000001000000010000000000100000100000000001000010000000010000000000000000100000000001000000001000001000000000001000000001000000001000000000000001000000010000000000100000001000000010000000010000000000010000000010000010"/>
+                        <sequence id="seq_Gondi" taxon="Gondi" totalcount="2"                 value="0101001010001001000010100000000000000000000000100000000000000000110010010000010000000000000000100010000000000000000000000100000000000000000001000000010000010000000100000001000010000010001000100000000000010000000000100000100000000000001000000100000010000001000000000000000001000000000000100000010010000000000000100001000000000000001000001000001000001001000000100000000100001000001000010000000000000100010000000000100000000000000010000000000000100001000000000001000000000010000000000010001000000010000000010000000000000010000100000000100000000001000001000000011001000000000010010001000000000100000000100010000000100000010000000000010000000000100001000000000010000100000001000001000000100000000001000000001000001000000000000010000000000000100000100000000000100001000010000000000011000100000001000000000000000100000000010000010000000010000000010000000000000010001000000000100000010"/>
+                        <sequence id="seq_Kota" taxon="Kota" totalcount="2"                   value="010100101000100100001010000000001000000000000000000000000000000000101001000000000000001010000000000000001001000000000000000000001000000000000000????????001000000001000000000010100000100000010000000???????000000000000001010000000001000000010010000010000000100000000010000000000100000000000??????0100000010000000000001000000000100000000000010001000100000010001000001000000001000100000000000010100000000010000000000000101000000000000000100000000000000100000000100000000000010001000000000100000000100000000010000000001000000100000000000000001000000001000010000000001000000010000???????????????????????????010000000010000000000000100110000001000010010000000010000100000001000000????????0000001000100000000001000010000000010000000000000100000000000000000001000001001000000001000000000001000000001000000010000000000??????????0000000100?????????0010000010000000000010000000001000000010"/>
+                    </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="AlmostUniform" >beast.math.distributions.AlmostUniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="100000000" sampleFromPrior="false">
+    <state id="state" storeEvery="5000">
+        <tree id="Tree.t:tree" name="stateNode">
+            <taxonset id="TaxonSet.drav" spec="TaxonSet">
+                <alignment id="I" spec="FilteredAlignment" filter="1-2">
+                    <data idref="drav"/>
+                </alignment>
+            </taxonset>
+        </tree>
+        <parameter id="bcov_alpha.s:drav" lower="1.0E-4" name="stateNode" upper="1.0">0.5</parameter>
+        <parameter id="bcov_s.s:drav" lower="1.0E-4" name="stateNode" upper="Infinity">0.5</parameter>
+        <parameter id="frequencies.s:drav" dimension="2" lower="0.0" name="stateNode" upper="1.0">0.5 0.5</parameter>
+        <parameter id="birthRate.t:drav" name="stateNode">0.001</parameter>
+        <parameter id="ucldStdev.c:drav" lower="0.0" name="stateNode">0.1</parameter>
+        <parameter id="ucldMean.c:clock" name="stateNode">3.5e-5</parameter>
+        <stateNode id="rateCategories.c:drav" spec="parameter.IntegerParameter" dimension="38">1</stateNode>
+
+        <parameter id="mutationRate.s:eye" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:egg" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:woman" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:good" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:bite" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:claw" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:kill" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:meat" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:foot" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:cold" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:what" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:long" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:fly" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:burn" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:fire" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:tooth" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:neck" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:new" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:louse" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:breast" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:stone" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:knee" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:two" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:white" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:night" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:blood" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:many" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:say" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:full" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:fish" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:rain" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:earth" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:sleep" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:ashes" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:warm" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:name" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:mouth" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:die" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:smoke" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:person" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:small" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:dog" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:cloud" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:mountain" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:thou" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:moon" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:ear" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:hear" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:sand" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:know" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:nose" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:sit" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:bird" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:stand" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:big" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:hand" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:walk" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:head" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:who" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:fat" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:drink" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:star" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:liver" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:round" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:I" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:man" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:tail" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:lie" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:we" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:horn" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:not" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:root" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:sun" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:bone" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:black" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:dry" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:feather" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:heart" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:leaf" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:see" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:this" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:hair" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:give" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:tongue" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:road" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:bark" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:come" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:yellow" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:all" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:water" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:skin" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:belly" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:seed" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:one" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:red" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:tree" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:swim" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:that" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:green" name="stateNode">1.0</parameter>
+        <parameter id="mutationRate.s:eat" name="stateNode">1.0</parameter>
+    </state>
+
+    <init id="RandomTree.t:tree" spec="beast.evolution.tree.SimpleRandomTree" estimate="false" initial="@Tree.t:tree" taxa="@drav">
+    </init>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="YuleModel.t:drav" spec="beast.evolution.speciation.YuleModel" birthDiffRate="@birthRate.t:drav" tree="@Tree.t:tree"/>
+            <prior id="bcov_alpha_prior.s:drav" name="distribution" x="@bcov_alpha.s:drav">
+                <Uniform id="Uniform.0" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="bcov_s_prior.s:drav" name="distribution" x="@bcov_s.s:drav">
+                <Gamma id="Gamma.0" name="distr">
+                    <parameter lower="0.0" name="alpha" upper="0.0">0.05</parameter>
+                    <parameter lower="0.0" name="beta" upper="0.0">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="YuleBirthRatePrior.t:drav" name="distribution" x="@birthRate.t:drav">
+                <Uniform id="Uniform.01" name="distr" upper="1"/>
+            </prior>
+            
+            <prior id="MeanRatePrior.c:clock" name="distribution" x="@ucldMean.c:clock">
+                <Uniform id="Uniform.clock" name="distr" upper="1"/>
+            </prior>
+            
+            <prior id="ucldStdevPrior.c:drav" name="distribution" x="@ucldStdev.c:drav">
+                <Gamma id="Gamma.01" name="distr">
+                    <parameter estimate="false" name="alpha">0.5396</parameter>
+                    <parameter estimate="false" name="beta">0.3819</parameter>
+                </Gamma>
+            </prior>
+            
+            <distribution id="root.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:tree">
+                <taxonset idref="TaxonSet.drav"/>
+                <AlmostUniform name="distr" lower="0" upper="10000"/>
+            </distribution>
+            
+            <distribution id="North.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:tree" monophyletic="true">
+                <taxonset id="North" spec="TaxonSet">
+                    <taxon id="Brahui" spec="Taxon"/>
+                    <taxon id="Malto" spec="Taxon"/>
+                    <taxon id="Kurukh" spec="Taxon"/>
+                </taxonset>
+            </distribution>
+            <distribution id="SouthII.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:tree" monophyletic="true">
+                <taxonset id="SouthI" spec="TaxonSet">
+                    <taxon id="Gondi" spec="Taxon"/>
+                    <taxon id="Kuwi" spec="Taxon"/>
+                    <taxon id="Telugu" spec="Taxon"/>
+                    <taxon id="Koya" spec="Taxon"/>
+                </taxonset>
+            </distribution>
+            <distribution id="SouthI.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:tree" monophyletic="true">
+                <taxonset id="SouthII" spec="TaxonSet">
+                    <taxon id="Badga" spec="Taxon"/>
+                    <taxon id="Toda" spec="Taxon"/>
+                    <taxon id="Kota" spec="Taxon"/>
+                    <taxon id="Betta_Kurumba" spec="Taxon"/>
+                    <taxon id="Tamil" spec="Taxon"/>
+                    <taxon id="Malayalam" spec="Taxon"/>
+                    <taxon id="Yeruva" spec="Taxon"/>
+                    <taxon id="Kodava" spec="Taxon"/>
+                    <taxon id="Tulu" spec="Taxon"/>
+                    <taxon id="Kannada" spec="Taxon"/>
+                </taxonset>
+                <AlmostUniform name="distr" lower="2250" upper="10000"/>
+            </distribution>
+
+            <distribution id="SouthI+II.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:tree" monophyletic="false">
+                <taxonset id="SouthI+II" spec="TaxonSet">
+                    <taxon idref="Gondi"/>
+                    <taxon idref="Kuwi"/>
+                    <taxon idref="Telugu"/>
+                    <taxon idref="Koya"/>
+                    <taxon idref="Badga"/>
+                    <taxon idref="Toda"/>
+                    <taxon idref="Kota"/>
+                    <taxon idref="Betta_Kurumba"/>
+                    <taxon idref="Tamil"/>
+                    <taxon idref="Malayalam"/>
+                    <taxon idref="Yeruva"/>
+                    <taxon idref="Kodava"/>
+                    <taxon idref="Tulu"/>
+                    <taxon idref="Kannada"/>
+                </taxonset>
+            </distribution>
+            
+            <distribution id="brh.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:tree" useOriginate="true">
+                <taxonset id="brh" spec="TaxonSet">
+                    <taxon idref="Brahui" spec="Taxon"/>
+                </taxonset>
+                <!-- stimulate a branch length of (Malto,Kurukh) to (Matlo,Kurukh,Brahui) to be less than 1000 years old.-->
+                <AlmostUniform name="distr" lower="0" upper="2250"/>
+            </distribution>
+
+            <distribution id="mal.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:tree" useOriginate="true">
+                <taxonset id="mal" spec="TaxonSet">
+                    <taxon idref="Malayalam" spec="Taxon"/>
+                </taxonset>
+                <AlmostUniform name="distr" lower="800" upper="1200"/>
+            </distribution>
+            <distribution id="mal2.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:tree" useOriginate="true">
+                <taxonset idref="mal"/>
+                <Normal name="distr" mean="1000" sigma="50"/>
+            </distribution>
+
+
+            <distribution id="tel.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:tree" useOriginate="true">
+                <taxonset id="tel" spec="TaxonSet">
+                    <taxon idref="Telugu" spec="Taxon"/>
+                </taxonset>
+                <AlmostUniform name="distr" lower="1400" upper="10000"/>
+            </distribution>
+
+            <distribution id="kan-tul.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:tree" useOriginate="false">
+                <taxonset id="kan-tul" spec="TaxonSet">
+                    <taxon idref="Kannada" spec="Taxon"/>
+                    <taxon idref="Tulu" spec="Taxon"/>
+                </taxonset>
+                <AlmostUniform name="distr" lower="1300" upper="10000"/>
+            </distribution>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="treeLikelihood.I" spec="TreeLikelihood" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.I"
+spec="FilteredAlignment"
+ascertained="true"
+data="@I"
+excludeto="1"
+filter="-"
+strip="false">
+                    <userDataType id="TwoStateCovarion.0" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:I" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:I">
+                    <parameter id="proportionInvariant.s:I" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                    <substModel id="covarion" spec="BinaryCovarion" alpha="@bcov_alpha.s:drav" switchRate="@bcov_s.s:drav" vfrequencies="@frequencies.s:drav">
+				        <parameter id="hiddenfrequencies" dimension="2" lower="0.0" name="hfrequencies" upper="1.0">0.5 0.5</parameter>
+                        <frequencies id="dummyfrequencies" spec="Frequencies" data="@I" estimate="false"/>
+                    </substModel>
+                </siteModel>
+                <branchRateModel id="RelaxedClock.c:Clock" spec="beast.evolution.branchratemodel.UCRelaxedClockModel" clock.rate="@ucldMean.c:clock" rateCategories="@rateCategories.c:drav" tree="@Tree.t:tree">
+                    <LogNormal id="LogNormalDistributionModel.c:clock" S="@ucldStdev.c:drav" meanInRealSpace="true" name="distr">
+                        <parameter estimate="false" lower="0.0" name="M" upper="1.0">1.0</parameter>
+                    </LogNormal>
+                </branchRateModel>
+            </distribution>
+            <distribution id="treeLikelihood.thou" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.thou"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="thou"
+spec="FilteredAlignment"
+data="@drav"
+filter="3-4"/>
+                    <userDataType id="TwoStateCovarion.01" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:thou" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:thou" substModel="@covarion">
+                    <parameter id="gammaShape.s:thou" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:thou" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.we" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.we"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="we"
+spec="FilteredAlignment"
+data="@drav"
+filter="5-7"/>
+                    <userDataType id="TwoStateCovarion.02" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:we" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:we" substModel="@covarion">
+                    <parameter id="gammaShape.s:we" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:we" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.this" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.this"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="this"
+spec="FilteredAlignment"
+data="@drav"
+filter="8-11"/>
+                    <userDataType id="TwoStateCovarion.03" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:this" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:this" substModel="@covarion">
+                    <parameter id="gammaShape.s:this" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:this" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.that" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.that"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="that"
+spec="FilteredAlignment"
+data="@drav"
+filter="12-14"/>
+                    <userDataType id="TwoStateCovarion.04" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:that" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:that" substModel="@covarion">
+                    <parameter id="gammaShape.s:that" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:that" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.who" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.who"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="who"
+spec="FilteredAlignment"
+data="@drav"
+filter="15-19"/>
+                    <userDataType id="TwoStateCovarion.05" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:who" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:who" substModel="@covarion">
+                    <parameter id="gammaShape.s:who" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:who" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.what" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.what"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="what"
+spec="FilteredAlignment"
+data="@drav"
+filter="20-21"/>
+                    <userDataType id="TwoStateCovarion.06" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:what" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:what" substModel="@covarion">
+                    <parameter id="gammaShape.s:what" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:what" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.not" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.not"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="not"
+spec="FilteredAlignment"
+data="@drav"
+filter="22-31"/>
+                    <userDataType id="TwoStateCovarion.07" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:not" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:not" substModel="@covarion">
+                    <parameter id="gammaShape.s:not" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:not" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.all" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.all"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="all"
+spec="FilteredAlignment"
+data="@drav"
+filter="32-47"/>
+                    <userDataType id="TwoStateCovarion.08" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:all" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:all" substModel="@covarion">
+                    <parameter id="gammaShape.s:all" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:all" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.many" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.many"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="many"
+spec="FilteredAlignment"
+data="@drav"
+filter="48-67"/>
+                    <userDataType id="TwoStateCovarion.09" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:many" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:many" substModel="@covarion">
+                    <parameter id="gammaShape.s:many" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:many" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.one" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.one"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="one"
+spec="FilteredAlignment"
+data="@drav"
+filter="68-70"/>
+                    <userDataType id="TwoStateCovarion.010" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:one" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:one" substModel="@covarion">
+                    <parameter id="gammaShape.s:one" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:one" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.two" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.two"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="two"
+spec="FilteredAlignment"
+data="@drav"
+filter="71-76"/>
+                    <userDataType id="TwoStateCovarion.011" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:two" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:two" substModel="@covarion">
+                    <parameter id="gammaShape.s:two" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:two" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.big" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.big"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="big"
+spec="FilteredAlignment"
+data="@drav"
+filter="77-87"/>
+                    <userDataType id="TwoStateCovarion.012" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:big" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:big" substModel="@covarion">
+                    <parameter id="gammaShape.s:big" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:big" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.long" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.long"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="long"
+spec="FilteredAlignment"
+data="@drav"
+filter="88-95"/>
+                    <userDataType id="TwoStateCovarion.013" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:long" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:long" substModel="@covarion">
+                    <parameter id="gammaShape.s:long" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:long" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.small" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.small"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="small"
+spec="FilteredAlignment"
+data="@drav"
+filter="96-106"/>
+                    <userDataType id="TwoStateCovarion.014" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:small" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:small" substModel="@covarion">
+                    <parameter id="gammaShape.s:small" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:small" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.woman" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.woman"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="woman"
+spec="FilteredAlignment"
+data="@drav"
+filter="107-125"/>
+                    <userDataType id="TwoStateCovarion.015" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:woman" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:woman" substModel="@covarion">
+                    <parameter id="gammaShape.s:woman" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:woman" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.man" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.man"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="man"
+spec="FilteredAlignment"
+data="@drav"
+filter="126-144"/>
+                    <userDataType id="TwoStateCovarion.016" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:man" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:man" substModel="@covarion">
+                    <parameter id="gammaShape.s:man" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:man" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.person" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.person"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="person"
+spec="FilteredAlignment"
+data="@drav"
+filter="145-152"/>
+                    <userDataType id="TwoStateCovarion.017" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:person" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:person" substModel="@covarion">
+                    <parameter id="gammaShape.s:person" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:person" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.bird" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.bird"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="bird"
+spec="FilteredAlignment"
+data="@drav"
+filter="153-162"/>
+                    <userDataType id="TwoStateCovarion.018" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:bird" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:bird" substModel="@covarion">
+                    <parameter id="gammaShape.s:bird" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:bird" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.dog" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.dog"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="dog"
+spec="FilteredAlignment"
+data="@drav"
+filter="163-168"/>
+                    <userDataType id="TwoStateCovarion.019" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:dog" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:dog" substModel="@covarion">
+                    <parameter id="gammaShape.s:dog" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:dog" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.louse" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.louse"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="louse"
+spec="FilteredAlignment"
+data="@drav"
+filter="169-175"/>
+                    <userDataType id="TwoStateCovarion.020" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:louse" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:louse" substModel="@covarion">
+                    <parameter id="gammaShape.s:louse" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:louse" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.tree" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.tree"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="tree"
+spec="FilteredAlignment"
+data="@drav"
+filter="176-181"/>
+                    <userDataType id="TwoStateCovarion.021" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:tree" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:tree" substModel="@covarion">
+                    <parameter id="gammaShape.s:tree" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:tree" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.seed" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.seed"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="seed"
+spec="FilteredAlignment"
+data="@drav"
+filter="182-188"/>
+                    <userDataType id="TwoStateCovarion.022" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:seed" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:seed" substModel="@covarion">
+                    <parameter id="gammaShape.s:seed" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:seed" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.leaf" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.leaf"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="leaf"
+spec="FilteredAlignment"
+data="@drav"
+filter="189-197"/>
+                    <userDataType id="TwoStateCovarion.023" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:leaf" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:leaf" substModel="@covarion">
+                    <parameter id="gammaShape.s:leaf" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:leaf" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.root" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.root"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="root"
+spec="FilteredAlignment"
+data="@drav"
+filter="198-204"/>
+                    <userDataType id="TwoStateCovarion.024" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:root" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:root" substModel="@covarion">
+                    <parameter id="gammaShape.s:root" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:root" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.bark" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.bark"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="bark"
+spec="FilteredAlignment"
+data="@drav"
+filter="205-219"/>
+                    <userDataType id="TwoStateCovarion.025" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:bark" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:bark" substModel="@covarion">
+                    <parameter id="gammaShape.s:bark" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:bark" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.skin" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.skin"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="skin"
+spec="FilteredAlignment"
+data="@drav"
+filter="220-225"/>
+                    <userDataType id="TwoStateCovarion.026" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:skin" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:skin" substModel="@covarion">
+                    <parameter id="gammaShape.s:skin" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:skin" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.meat" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.meat"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="meat"
+spec="FilteredAlignment"
+data="@drav"
+filter="226-239"/>
+                    <userDataType id="TwoStateCovarion.027" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:meat" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:meat" substModel="@covarion">
+                    <parameter id="gammaShape.s:meat" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:meat" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.blood" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.blood"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="blood"
+spec="FilteredAlignment"
+data="@drav"
+filter="240-246"/>
+                    <userDataType id="TwoStateCovarion.028" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:blood" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:blood" substModel="@covarion">
+                    <parameter id="gammaShape.s:blood" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:blood" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.bone" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.bone"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="bone"
+spec="FilteredAlignment"
+data="@drav"
+filter="247-254"/>
+                    <userDataType id="TwoStateCovarion.029" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:bone" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:bone" substModel="@covarion">
+                    <parameter id="gammaShape.s:bone" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:bone" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.fat" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.fat"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="fat"
+spec="FilteredAlignment"
+data="@drav"
+filter="255-263"/>
+                    <userDataType id="TwoStateCovarion.030" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:fat" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:fat" substModel="@covarion">
+                    <parameter id="gammaShape.s:fat" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:fat" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.fire" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.fire"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="fire"
+spec="FilteredAlignment"
+data="@drav"
+filter="264-275"/>
+                    <userDataType id="TwoStateCovarion.031" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:fire" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:fire" substModel="@covarion">
+                    <parameter id="gammaShape.s:fire" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:fire" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.egg" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.egg"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="egg"
+spec="FilteredAlignment"
+data="@drav"
+filter="276-288"/>
+                    <userDataType id="TwoStateCovarion.032" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:egg" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:egg" substModel="@covarion">
+                    <parameter id="gammaShape.s:egg" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:egg" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.horn" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.horn"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="horn"
+spec="FilteredAlignment"
+data="@drav"
+filter="289-294"/>
+                    <userDataType id="TwoStateCovarion.033" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:horn" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:horn" substModel="@covarion">
+                    <parameter id="gammaShape.s:horn" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:horn" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.tail" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.tail"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="tail"
+spec="FilteredAlignment"
+data="@drav"
+filter="295-301"/>
+                    <userDataType id="TwoStateCovarion.034" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:tail" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:tail" substModel="@covarion">
+                    <parameter id="gammaShape.s:tail" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:tail" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.feather" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.feather"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="feather"
+spec="FilteredAlignment"
+data="@drav"
+filter="302-314"/>
+                    <userDataType id="TwoStateCovarion.035" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:feather" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:feather" substModel="@covarion">
+                    <parameter id="gammaShape.s:feather" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:feather" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.fish" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.fish"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="fish"
+spec="FilteredAlignment"
+data="@drav"
+filter="315-321"/>
+                    <userDataType id="TwoStateCovarion.036" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:fish" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:fish" substModel="@covarion">
+                    <parameter id="gammaShape.s:fish" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:fish" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.hair" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.hair"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="hair"
+spec="FilteredAlignment"
+data="@drav"
+filter="322-335"/>
+                    <userDataType id="TwoStateCovarion.037" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:hair" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:hair" substModel="@covarion">
+                    <parameter id="gammaShape.s:hair" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:hair" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.head" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.head"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="head"
+spec="FilteredAlignment"
+data="@drav"
+filter="336-341"/>
+                    <userDataType id="TwoStateCovarion.038" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:head" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:head" substModel="@covarion">
+                    <parameter id="gammaShape.s:head" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:head" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.ear" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.ear"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="ear"
+spec="FilteredAlignment"
+data="@drav"
+filter="342-345"/>
+                    <userDataType id="TwoStateCovarion.039" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:ear" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:ear" substModel="@covarion">
+                    <parameter id="gammaShape.s:ear" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:ear" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.eye" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.eye"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="eye"
+spec="FilteredAlignment"
+data="@drav"
+filter="346-349"/>
+                    <userDataType id="TwoStateCovarion.040" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:eye" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:eye" substModel="@covarion">
+                    <parameter id="gammaShape.s:eye" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:eye" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.claw" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.claw"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="claw"
+spec="FilteredAlignment"
+data="@drav"
+filter="350-356"/>
+                    <userDataType id="TwoStateCovarion.041" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:claw" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:claw" substModel="@covarion">
+                    <parameter id="gammaShape.s:claw" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:claw" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.nose" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.nose"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="nose"
+spec="FilteredAlignment"
+data="@drav"
+filter="357-362"/>
+                    <userDataType id="TwoStateCovarion.042" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:nose" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:nose" substModel="@covarion">
+                    <parameter id="gammaShape.s:nose" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:nose" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.mouth" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.mouth"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="mouth"
+spec="FilteredAlignment"
+data="@drav"
+filter="363-371"/>
+                    <userDataType id="TwoStateCovarion.043" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:mouth" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:mouth" substModel="@covarion">
+                    <parameter id="gammaShape.s:mouth" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:mouth" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.tooth" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.tooth"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="tooth"
+spec="FilteredAlignment"
+data="@drav"
+filter="372-375"/>
+                    <userDataType id="TwoStateCovarion.044" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:tooth" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:tooth" substModel="@covarion">
+                    <parameter id="gammaShape.s:tooth" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:tooth" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.tongue" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.tongue"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="tongue"
+spec="FilteredAlignment"
+data="@drav"
+filter="376-380"/>
+                    <userDataType id="TwoStateCovarion.045" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:tongue" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:tongue" substModel="@covarion">
+                    <parameter id="gammaShape.s:tongue" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:tongue" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.foot" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.foot"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="foot"
+spec="FilteredAlignment"
+data="@drav"
+filter="381-390"/>
+                    <userDataType id="TwoStateCovarion.046" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:foot" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:foot" substModel="@covarion">
+                    <parameter id="gammaShape.s:foot" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:foot" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.knee" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.knee"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="knee"
+spec="FilteredAlignment"
+data="@drav"
+filter="391-400"/>
+                    <userDataType id="TwoStateCovarion.047" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:knee" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:knee" substModel="@covarion">
+                    <parameter id="gammaShape.s:knee" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:knee" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.hand" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.hand"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="hand"
+spec="FilteredAlignment"
+data="@drav"
+filter="401-404"/>
+                    <userDataType id="TwoStateCovarion.048" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:hand" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:hand" substModel="@covarion">
+                    <parameter id="gammaShape.s:hand" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:hand" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.belly" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.belly"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="belly"
+spec="FilteredAlignment"
+data="@drav"
+filter="405-416"/>
+                    <userDataType id="TwoStateCovarion.049" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:belly" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:belly" substModel="@covarion">
+                    <parameter id="gammaShape.s:belly" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:belly" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.neck" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.neck"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="neck"
+spec="FilteredAlignment"
+data="@drav"
+filter="417-429"/>
+                    <userDataType id="TwoStateCovarion.050" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:neck" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:neck" substModel="@covarion">
+                    <parameter id="gammaShape.s:neck" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:neck" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.breast" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.breast"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="breast"
+spec="FilteredAlignment"
+data="@drav"
+filter="430-445"/>
+                    <userDataType id="TwoStateCovarion.051" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:breast" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:breast" substModel="@covarion">
+                    <parameter id="gammaShape.s:breast" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:breast" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.heart" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.heart"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="heart"
+spec="FilteredAlignment"
+data="@drav"
+filter="446-456"/>
+                    <userDataType id="TwoStateCovarion.052" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:heart" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:heart" substModel="@covarion">
+                    <parameter id="gammaShape.s:heart" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:heart" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.liver" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.liver"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="liver"
+spec="FilteredAlignment"
+data="@drav"
+filter="457-467"/>
+                    <userDataType id="TwoStateCovarion.053" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:liver" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:liver" substModel="@covarion">
+                    <parameter id="gammaShape.s:liver" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:liver" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.drink" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.drink"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="drink"
+spec="FilteredAlignment"
+data="@drav"
+filter="468-473"/>
+                    <userDataType id="TwoStateCovarion.054" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:drink" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:drink" substModel="@covarion">
+                    <parameter id="gammaShape.s:drink" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:drink" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.eat" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.eat"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="eat"
+spec="FilteredAlignment"
+data="@drav"
+filter="474-483"/>
+                    <userDataType id="TwoStateCovarion.055" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:eat" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:eat" substModel="@covarion">
+                    <parameter id="gammaShape.s:eat" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:eat" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.bite" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.bite"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="bite"
+spec="FilteredAlignment"
+data="@drav"
+filter="484-491"/>
+                    <userDataType id="TwoStateCovarion.056" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:bite" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:bite" substModel="@covarion">
+                    <parameter id="gammaShape.s:bite" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:bite" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.see" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.see"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="see"
+spec="FilteredAlignment"
+data="@drav"
+filter="492-502"/>
+                    <userDataType id="TwoStateCovarion.057" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:see" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:see" substModel="@covarion">
+                    <parameter id="gammaShape.s:see" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:see" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.hear" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.hear"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="hear"
+spec="FilteredAlignment"
+data="@drav"
+filter="503-506"/>
+                    <userDataType id="TwoStateCovarion.058" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:hear" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:hear" substModel="@covarion">
+                    <parameter id="gammaShape.s:hear" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:hear" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.know" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.know"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="know"
+spec="FilteredAlignment"
+data="@drav"
+filter="507-519"/>
+                    <userDataType id="TwoStateCovarion.059" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:know" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:know" substModel="@covarion">
+                    <parameter id="gammaShape.s:know" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:know" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.sleep" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.sleep"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="sleep"
+spec="FilteredAlignment"
+data="@drav"
+filter="520-531"/>
+                    <userDataType id="TwoStateCovarion.060" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:sleep" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:sleep" substModel="@covarion">
+                    <parameter id="gammaShape.s:sleep" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:sleep" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.die" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.die"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="die"
+spec="FilteredAlignment"
+data="@drav"
+filter="532-538"/>
+                    <userDataType id="TwoStateCovarion.061" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:die" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:die" substModel="@covarion">
+                    <parameter id="gammaShape.s:die" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:die" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.kill" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.kill"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="kill"
+spec="FilteredAlignment"
+data="@drav"
+filter="539-550"/>
+                    <userDataType id="TwoStateCovarion.062" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:kill" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:kill" substModel="@covarion">
+                    <parameter id="gammaShape.s:kill" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:kill" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.swim" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.swim"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="swim"
+spec="FilteredAlignment"
+data="@drav"
+filter="551-560"/>
+                    <userDataType id="TwoStateCovarion.063" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:swim" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:swim" substModel="@covarion">
+                    <parameter id="gammaShape.s:swim" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:swim" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.fly" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.fly"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="fly"
+spec="FilteredAlignment"
+data="@drav"
+filter="561-568"/>
+                    <userDataType id="TwoStateCovarion.064" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:fly" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:fly" substModel="@covarion">
+                    <parameter id="gammaShape.s:fly" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:fly" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.walk" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.walk"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="walk"
+spec="FilteredAlignment"
+data="@drav"
+filter="569-574"/>
+                    <userDataType id="TwoStateCovarion.065" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:walk" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:walk" substModel="@covarion">
+                    <parameter id="gammaShape.s:walk" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:walk" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.come" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.come"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="come"
+spec="FilteredAlignment"
+data="@drav"
+filter="575-576"/>
+                    <userDataType id="TwoStateCovarion.066" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:come" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:come" substModel="@covarion">
+                    <parameter id="gammaShape.s:come" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:come" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.lie" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.lie"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="lie"
+spec="FilteredAlignment"
+data="@drav"
+filter="577-590"/>
+                    <userDataType id="TwoStateCovarion.067" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:lie" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:lie" substModel="@covarion">
+                    <parameter id="gammaShape.s:lie" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:lie" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.sit" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.sit"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="sit"
+spec="FilteredAlignment"
+data="@drav"
+filter="591-601"/>
+                    <userDataType id="TwoStateCovarion.068" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:sit" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:sit" substModel="@covarion">
+                    <parameter id="gammaShape.s:sit" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:sit" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.stand" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.stand"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="stand"
+spec="FilteredAlignment"
+data="@drav"
+filter="602-608"/>
+                    <userDataType id="TwoStateCovarion.069" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:stand" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:stand" substModel="@covarion">
+                    <parameter id="gammaShape.s:stand" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:stand" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.give" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.give"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="give"
+spec="FilteredAlignment"
+data="@drav"
+filter="609-612"/>
+                    <userDataType id="TwoStateCovarion.070" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:give" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:give" substModel="@covarion">
+                    <parameter id="gammaShape.s:give" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:give" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.say" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.say"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="say"
+spec="FilteredAlignment"
+data="@drav"
+filter="613-627"/>
+                    <userDataType id="TwoStateCovarion.071" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:say" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:say" substModel="@covarion">
+                    <parameter id="gammaShape.s:say" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:say" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.sun" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.sun"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="sun"
+spec="FilteredAlignment"
+data="@drav"
+filter="628-634"/>
+                    <userDataType id="TwoStateCovarion.072" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:sun" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:sun" substModel="@covarion">
+                    <parameter id="gammaShape.s:sun" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:sun" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.moon" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.moon"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="moon"
+spec="FilteredAlignment"
+data="@drav"
+filter="635-642"/>
+                    <userDataType id="TwoStateCovarion.073" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:moon" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:moon" substModel="@covarion">
+                    <parameter id="gammaShape.s:moon" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:moon" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.star" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.star"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="star"
+spec="FilteredAlignment"
+data="@drav"
+filter="643-649"/>
+                    <userDataType id="TwoStateCovarion.074" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:star" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:star" substModel="@covarion">
+                    <parameter id="gammaShape.s:star" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:star" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.water" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.water"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="water"
+spec="FilteredAlignment"
+data="@drav"
+filter="650-657"/>
+                    <userDataType id="TwoStateCovarion.075" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:water" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:water" substModel="@covarion">
+                    <parameter id="gammaShape.s:water" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:water" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.rain" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.rain"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="rain"
+spec="FilteredAlignment"
+data="@drav"
+filter="658-665"/>
+                    <userDataType id="TwoStateCovarion.076" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:rain" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:rain" substModel="@covarion">
+                    <parameter id="gammaShape.s:rain" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:rain" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.stone" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.stone"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="stone"
+spec="FilteredAlignment"
+data="@drav"
+filter="666-673"/>
+                    <userDataType id="TwoStateCovarion.077" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:stone" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:stone" substModel="@covarion">
+                    <parameter id="gammaShape.s:stone" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:stone" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.sand" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.sand"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="sand"
+spec="FilteredAlignment"
+data="@drav"
+filter="674-681"/>
+                    <userDataType id="TwoStateCovarion.078" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:sand" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:sand" substModel="@covarion">
+                    <parameter id="gammaShape.s:sand" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:sand" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.earth" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.earth"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="earth"
+spec="FilteredAlignment"
+data="@drav"
+filter="682-690"/>
+                    <userDataType id="TwoStateCovarion.079" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:earth" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:earth" substModel="@covarion">
+                    <parameter id="gammaShape.s:earth" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:earth" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.cloud" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.cloud"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="cloud"
+spec="FilteredAlignment"
+data="@drav"
+filter="691-701"/>
+                    <userDataType id="TwoStateCovarion.080" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:cloud" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:cloud" substModel="@covarion">
+                    <parameter id="gammaShape.s:cloud" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:cloud" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.smoke" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.smoke"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="smoke"
+spec="FilteredAlignment"
+data="@drav"
+filter="702-705"/>
+                    <userDataType id="TwoStateCovarion.081" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:smoke" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:smoke" substModel="@covarion">
+                    <parameter id="gammaShape.s:smoke" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:smoke" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.ashes" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.ashes"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="ashes"
+spec="FilteredAlignment"
+data="@drav"
+filter="706-713"/>
+                    <userDataType id="TwoStateCovarion.082" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:ashes" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:ashes" substModel="@covarion">
+                    <parameter id="gammaShape.s:ashes" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:ashes" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.burn" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.burn"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="burn"
+spec="FilteredAlignment"
+data="@drav"
+filter="714-726"/>
+                    <userDataType id="TwoStateCovarion.083" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:burn" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:burn" substModel="@covarion">
+                    <parameter id="gammaShape.s:burn" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:burn" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.road" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.road"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="road"
+spec="FilteredAlignment"
+data="@drav"
+filter="727-738"/>
+                    <userDataType id="TwoStateCovarion.084" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:road" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:road" substModel="@covarion">
+                    <parameter id="gammaShape.s:road" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:road" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.mountain" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.mountain"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="mountain"
+spec="FilteredAlignment"
+data="@drav"
+filter="739-752"/>
+                    <userDataType id="TwoStateCovarion.085" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:mountain" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:mountain" substModel="@covarion">
+                    <parameter id="gammaShape.s:mountain" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:mountain" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.red" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.red"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="red"
+spec="FilteredAlignment"
+data="@drav"
+filter="753-758"/>
+                    <userDataType id="TwoStateCovarion.086" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:red" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:red" substModel="@covarion">
+                    <parameter id="gammaShape.s:red" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:red" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.green" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.green"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="green"
+spec="FilteredAlignment"
+data="@drav"
+filter="759-767"/>
+                    <userDataType id="TwoStateCovarion.087" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:green" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:green" substModel="@covarion">
+                    <parameter id="gammaShape.s:green" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:green" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.yellow" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.yellow"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="yellow"
+spec="FilteredAlignment"
+data="@drav"
+filter="768-779"/>
+                    <userDataType id="TwoStateCovarion.088" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:yellow" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:yellow" substModel="@covarion">
+                    <parameter id="gammaShape.s:yellow" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:yellow" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.white" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.white"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="white"
+spec="FilteredAlignment"
+data="@drav"
+filter="780-788"/>
+                    <userDataType id="TwoStateCovarion.089" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:white" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:white" substModel="@covarion">
+                    <parameter id="gammaShape.s:white" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:white" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.black" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.black"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="black"
+spec="FilteredAlignment"
+data="@drav"
+filter="789-796"/>
+                    <userDataType id="TwoStateCovarion.090" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:black" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:black" substModel="@covarion">
+                    <parameter id="gammaShape.s:black" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:black" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.night" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.night"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="night"
+spec="FilteredAlignment"
+data="@drav"
+filter="797-808"/>
+                    <userDataType id="TwoStateCovarion.091" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:night" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:night" substModel="@covarion">
+                    <parameter id="gammaShape.s:night" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:night" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.warm" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.warm"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="warm"
+spec="FilteredAlignment"
+data="@drav"
+filter="809-818"/>
+                    <userDataType id="TwoStateCovarion.092" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:warm" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:warm" substModel="@covarion">
+                    <parameter id="gammaShape.s:warm" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:warm" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.cold" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.cold"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="cold"
+spec="FilteredAlignment"
+data="@drav"
+filter="819-828"/>
+                    <userDataType id="TwoStateCovarion.093" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:cold" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:cold" substModel="@covarion">
+                    <parameter id="gammaShape.s:cold" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:cold" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.full" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.full"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="full"
+spec="FilteredAlignment"
+data="@drav"
+filter="829-837"/>
+                    <userDataType id="TwoStateCovarion.094" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:full" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:full" substModel="@covarion">
+                    <parameter id="gammaShape.s:full" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:full" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.new" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.new"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="new"
+spec="FilteredAlignment"
+data="@drav"
+filter="838-843"/>
+                    <userDataType id="TwoStateCovarion.095" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:new" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:new" substModel="@covarion">
+                    <parameter id="gammaShape.s:new" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:new" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.good" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.good"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="good"
+spec="FilteredAlignment"
+data="@drav"
+filter="844-856"/>
+                    <userDataType id="TwoStateCovarion.096" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:good" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:good" substModel="@covarion">
+                    <parameter id="gammaShape.s:good" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:good" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.round" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.round"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="round"
+spec="FilteredAlignment"
+data="@drav"
+filter="857-864"/>
+                    <userDataType id="TwoStateCovarion.097" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:round" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:round" substModel="@covarion">
+                    <parameter id="gammaShape.s:round" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:round" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.dry" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.dry"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="dry"
+spec="FilteredAlignment"
+data="@drav"
+filter="865-874"/>
+                    <userDataType id="TwoStateCovarion.098" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:dry" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:dry" substModel="@covarion">
+                    <parameter id="gammaShape.s:dry" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:dry" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+            <distribution id="treeLikelihood.name" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:Clock" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.name"
+spec="FilteredAlignment"
+ascertained="true"
+excludeto="1"
+filter="-"
+strip="false">
+                    <data
+id="name"
+spec="FilteredAlignment"
+data="@drav"
+filter="875-877"/>
+                    <userDataType id="TwoStateCovarion.099" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:name" spec="SiteModel" gammaCategoryCount="1" mutationRate="@mutationRate.s:name" substModel="@covarion">
+                    <parameter id="gammaShape.s:name" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:name" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                </siteModel>
+            </distribution>
+         </distribution>
+    </distribution>
+
+    <operator id="bcovAlphaScaler.s:drav" spec="ScaleOperator" parameter="@bcov_alpha.s:drav" scaleFactor="0.75" weight="0.1"/>
+
+    <operator id="bcovSwitchParamScaler.s:drav" spec="ScaleOperator" parameter="@bcov_s.s:drav" scaleFactor="0.75" weight="0.1"/>
+
+    <operator id="YuleBirthRateScaler.t:drav" spec="ScaleOperator" parameter="@birthRate.t:drav" scaleFactor="0.75" weight="3.0"/>
+
+    <operator id="frequenciesDelta.s:drav" spec="DeltaExchangeOperator" delta="0.01" weight="0.1">
+        <parameter idref="frequencies.s:drav"/>
+    </operator>
+
+    <operator id="treeScaler.t:drav" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:tree" weight="3.0"/>
+
+    <operator id="treeRootScaler.t:drav" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:tree" weight="3.0"/>
+
+    <operator id="UniformOperator.t:drav" spec="Uniform" tree="@Tree.t:tree" weight="30.0"/>
+
+    <operator id="SubtreeSlide.t:drav" spec="SubtreeSlide" tree="@Tree.t:tree" weight="15.0"/>
+
+    <operator id="narrow.t:drav" spec="Exchange" tree="@Tree.t:tree" weight="15.0"/>
+
+    <operator id="wide.t:drav" spec="Exchange" isNarrow="false" tree="@Tree.t:tree" weight="3.0"/>
+
+    <operator id="WilsonBalding.t:drav" spec="WilsonBalding" tree="@Tree.t:tree" weight="3.0"/>
+    
+    <operator id="ucldMeanScaler.c:clock" spec="ScaleOperator" parameter="@ucldMean.c:clock" scaleFactor="0.5" weight="1.0"/>
+    
+    <operator id="relaxedUpDownOperator.c:clock" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="ucldMean.c:clock"/>
+        <down idref="Tree.t:tree"/>
+    </operator>
+
+    <operator id="ucldStdevScaler.c:drav" spec="ScaleOperator" parameter="@ucldStdev.c:drav" scaleFactor="0.5" weight="3.0"/>
+
+    <operator id="CategoriesRandomWalk.c:drav" spec="IntRandomWalkOperator" parameter="@rateCategories.c:drav" weight="10.0" windowSize="1"/>
+
+    <operator id="CategoriesSwapOperator.c:drav" spec="SwapOperator" intparameter="@rateCategories.c:drav" weight="10.0"/>
+
+    <operator id="CategoriesUniform.c:drav" spec="UniformOperator" parameter="@rateCategories.c:drav" weight="10.0"/>
+
+    <operator id="FixMeanMutationRatesOperator" spec="DeltaExchangeOperator" delta="0.75" weight="30.0">
+        <parameter idref="mutationRate.s:I"/>
+        <parameter idref="mutationRate.s:thou"/>
+        <parameter idref="mutationRate.s:we"/>
+        <parameter idref="mutationRate.s:this"/>
+        <parameter idref="mutationRate.s:that"/>
+        <parameter idref="mutationRate.s:who"/>
+        <parameter idref="mutationRate.s:what"/>
+        <parameter idref="mutationRate.s:not"/>
+        <parameter idref="mutationRate.s:all"/>
+        <parameter idref="mutationRate.s:many"/>
+        <parameter idref="mutationRate.s:one"/>
+        <parameter idref="mutationRate.s:two"/>
+        <parameter idref="mutationRate.s:big"/>
+        <parameter idref="mutationRate.s:long"/>
+        <parameter idref="mutationRate.s:small"/>
+        <parameter idref="mutationRate.s:woman"/>
+        <parameter idref="mutationRate.s:man"/>
+        <parameter idref="mutationRate.s:person"/>
+        <parameter idref="mutationRate.s:bird"/>
+        <parameter idref="mutationRate.s:dog"/>
+        <parameter idref="mutationRate.s:louse"/>
+        <parameter idref="mutationRate.s:tree"/>
+        <parameter idref="mutationRate.s:seed"/>
+        <parameter idref="mutationRate.s:leaf"/>
+        <parameter idref="mutationRate.s:root"/>
+        <parameter idref="mutationRate.s:bark"/>
+        <parameter idref="mutationRate.s:skin"/>
+        <parameter idref="mutationRate.s:meat"/>
+        <parameter idref="mutationRate.s:blood"/>
+        <parameter idref="mutationRate.s:bone"/>
+        <parameter idref="mutationRate.s:fat"/>
+        <parameter idref="mutationRate.s:fire"/>
+        <parameter idref="mutationRate.s:egg"/>
+        <parameter idref="mutationRate.s:horn"/>
+        <parameter idref="mutationRate.s:tail"/>
+        <parameter idref="mutationRate.s:feather"/>
+        <parameter idref="mutationRate.s:fish"/>
+        <parameter idref="mutationRate.s:hair"/>
+        <parameter idref="mutationRate.s:head"/>
+        <parameter idref="mutationRate.s:ear"/>
+        <parameter idref="mutationRate.s:eye"/>
+        <parameter idref="mutationRate.s:claw"/>
+        <parameter idref="mutationRate.s:nose"/>
+        <parameter idref="mutationRate.s:mouth"/>
+        <parameter idref="mutationRate.s:tooth"/>
+        <parameter idref="mutationRate.s:tongue"/>
+        <parameter idref="mutationRate.s:foot"/>
+        <parameter idref="mutationRate.s:knee"/>
+        <parameter idref="mutationRate.s:hand"/>
+        <parameter idref="mutationRate.s:belly"/>
+        <parameter idref="mutationRate.s:neck"/>
+        <parameter idref="mutationRate.s:breast"/>
+        <parameter idref="mutationRate.s:heart"/>
+        <parameter idref="mutationRate.s:liver"/>
+        <parameter idref="mutationRate.s:drink"/>
+        <parameter idref="mutationRate.s:eat"/>
+        <parameter idref="mutationRate.s:bite"/>
+        <parameter idref="mutationRate.s:see"/>
+        <parameter idref="mutationRate.s:hear"/>
+        <parameter idref="mutationRate.s:know"/>
+        <parameter idref="mutationRate.s:sleep"/>
+        <parameter idref="mutationRate.s:die"/>
+        <parameter idref="mutationRate.s:kill"/>
+        <parameter idref="mutationRate.s:swim"/>
+        <parameter idref="mutationRate.s:fly"/>
+        <parameter idref="mutationRate.s:walk"/>
+        <parameter idref="mutationRate.s:come"/>
+        <parameter idref="mutationRate.s:lie"/>
+        <parameter idref="mutationRate.s:sit"/>
+        <parameter idref="mutationRate.s:stand"/>
+        <parameter idref="mutationRate.s:give"/>
+        <parameter idref="mutationRate.s:say"/>
+        <parameter idref="mutationRate.s:sun"/>
+        <parameter idref="mutationRate.s:moon"/>
+        <parameter idref="mutationRate.s:star"/>
+        <parameter idref="mutationRate.s:water"/>
+        <parameter idref="mutationRate.s:rain"/>
+        <parameter idref="mutationRate.s:stone"/>
+        <parameter idref="mutationRate.s:sand"/>
+        <parameter idref="mutationRate.s:earth"/>
+        <parameter idref="mutationRate.s:cloud"/>
+        <parameter idref="mutationRate.s:smoke"/>
+        <parameter idref="mutationRate.s:ashes"/>
+        <parameter idref="mutationRate.s:burn"/>
+        <parameter idref="mutationRate.s:road"/>
+        <parameter idref="mutationRate.s:mountain"/>
+        <parameter idref="mutationRate.s:red"/>
+        <parameter idref="mutationRate.s:green"/>
+        <parameter idref="mutationRate.s:yellow"/>
+        <parameter idref="mutationRate.s:white"/>
+        <parameter idref="mutationRate.s:black"/>
+        <parameter idref="mutationRate.s:night"/>
+        <parameter idref="mutationRate.s:warm"/>
+        <parameter idref="mutationRate.s:cold"/>
+        <parameter idref="mutationRate.s:full"/>
+        <parameter idref="mutationRate.s:new"/>
+        <parameter idref="mutationRate.s:good"/>
+        <parameter idref="mutationRate.s:round"/>
+        <parameter idref="mutationRate.s:dry"/>
+        <parameter idref="mutationRate.s:name"/>
+        <weightvector id="weightparameter" spec="parameter.IntegerParameter" dimension="100" estimate="false" lower="0" upper="0">1 1 2 3 2 4 1 9 15 19 2 5 10 7 10 18 18 7 9 5 6 5 6 8 6 14 5 13 6 7 8 11 12 5 6 12 6 13 5 3 3 6 5 8 3 4 9 9 3 11 12 15 10 10 5 9 7 10 3 12 11 6 11 9 7 5 1 13 10 6 3 14 6 7 6 7 7 7 7 8 10 3 7 12 11 13 5 8 11 8 7 11 9 9 8 5 12 7 9 2</weightvector>
+    </operator>
+
+    <logger id="tracelog" fileName="drav_cov_est_ucln_yule.log" logEvery="5000" model="@posterior" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log id="TreeHeight.t:tree" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:tree"/>
+        <log idref="bcov_alpha.s:drav"/>
+        <log idref="bcov_s.s:drav"/>
+        <log idref="YuleModel.t:drav"/>
+        <log idref="birthRate.t:drav"/>
+        <log idref="frequencies.s:drav"/>
+        <log idref="ucldStdev.c:drav"/>
+        <log id="rate.c:clock" spec="beast.evolution.branchratemodel.RateStatistic" branchratemodel="@RelaxedClock.c:Clock" tree="@Tree.t:tree"/>
+        <log idref="North.prior"/>
+        <log idref="SouthI.prior"/>
+        <log idref="SouthII.prior"/>
+        <log idref="SouthI+II.prior"/>
+        <log idref="mal.prior"/>
+        <log idref="brh.prior"/>
+        <log idref="kan-tul.prior"/>
+        <log idref="tel.prior"/>
+        <log idref="ucldMean.c:clock"/>
+    </logger>
+
+    <logger id="screenlog" logEvery="5000">
+        <log idref="posterior"/>
+        <log id="ESS.0" spec="util.ESS" arg="@posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:drav" fileName="drav_cov_est_ucln_yule.trees" logEvery="5000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:drav" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@RelaxedClock.c:Clock" tree="@Tree.t:tree"/>
+    </logger>
+
+</run>
+
+</beast>
