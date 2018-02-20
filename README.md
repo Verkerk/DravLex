@@ -1,30 +1,11 @@
 # DravLex
 
-This private repository contains the datafiles for the following publication:
+Please cite these data as:
 
-A Bayesian phylogenetic study of the Dravidian language family
+Kolipakam, Vishnupriya, Michael Dunn, Fiona M. Jordan & Annemarie Verkerk. (2018). DravLex: A Dravidian lexical database. Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands.
 
-by
+This dataset was used in the following paper:
 
-Vishnupriya Kolipakam1,2, Fiona Jordan3,4,2, Michael Dunn5,2, Simon J. Greenhill6,4, Remco Bouckaert7,4, Russell Gray4, Annemarie Verkerk4,2
+Kolipakam, Vishnupriya, Fiona M. Jordan, Michael Dunn, Simon J. Greenhill, Remco Bouckaert, Russell D. Gray & Annemarie Verkerk. (2018). A Bayesian phylogenetic study of the Dravidian language family. Royal Society Open Science. 
 
-1Wildlife Institute of India, Post Box 18, Chandrabani, Dehradun, 248001, India
-2Evolutionary Processes in Language and Culture, Max Planck Institute for Psycholinguistics, Wundtlaan 1, 6525 XD Nijmegen, The Netherlands
-3Department of Archaeology & Anthropology, University of Bristol, 43 Woodland Rd, Bristol BS8 1UU, United Kingdom
-4Department of Linguistic and Cultural Evolution, Max Planck Institute for the Science of Human History, Kahlaische Strasse 10, D-07745 Jena, Germany
-5Department of Linguistics and Philology, Uppsala University, Engelska parken, Thunbergsv. 3 H, 751 26 Uppsala, Sweden
-6ARC Centre of Excellence for the Dynamics of Language, Australian National University, Building 9, H.C.Coombs Bld, The Australian National University ACT 2601, Canberra, Australia
-7Department of Computer Science, University of Auckland, 303/38 Princes St, Auckland, 1010, New Zealand
-
-Submitted to Royal Society Open Science
-
-These files will be published through Zenodo upon publication.
-
-During the review process, they are shared with the reviewers through Google Drive, the links to which are also found in the cover letter and are also listed here:
-
-Data, including all cognate coding & comments:
-https://drive.google.com/open?id=1yeKvtwv3F7AY7X4FBFBCHCm_nbDmCljdNAIWvtYU7m4
-
-BEAST 2 XML file to generate the tree sample that was our best-supported analysis. See Table 2 in the manuscript.
-https://drive.google.com/open?id=0B3KO4jaSUbZGcnI1VGtoUEZmTkE
-
+Once the paper becomes available, this file will be updated with links to the paper and supplementary materials.
