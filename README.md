@@ -13,3 +13,4 @@ Once the paper becomes available, this file will be updated with links to the pa
 The dataset conforms to CLDF v1.0 format, see http://cldf.clld.org/. 
 Robert Forkel, Johann-Mattis List, Michael Cysouw, & Simon J Greenhill. (2017, December 18). cldf/cldf: CLDF 1.0 (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1117644
 
+We would like to thank Robert Forkel for his assistance in converting the data to the CLDF v1.0 format.
